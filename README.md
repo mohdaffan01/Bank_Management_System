@@ -23,5 +23,3 @@ This is a **Bank Management System** developed using Java that simulates basic b
 - **Database:** MySQL
 - **Database Connector:** JDBC (Java Database Connectivity)
 
-## 📂 Project Structure
-
